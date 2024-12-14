@@ -85,6 +85,4 @@ public class TestKlasse {
         refinedPerson2.setNickname("Bubi");
         System.out.println(refinedPerson1.equals(refinedPerson2));
     }
-
-
 }
